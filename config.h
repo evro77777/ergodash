@@ -19,7 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
-#define COMBO_COUNT 1
+#define COMBO_COUNT 3
 
 /* Use I2C or Serial, not both */
 
